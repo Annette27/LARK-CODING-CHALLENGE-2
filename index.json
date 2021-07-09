@@ -1,0 +1,87 @@
+{
+
+    "grocery":[
+{
+    "Serial":"1",
+    "Name":"Carrot",
+    "Quantity":"0.5",
+    "Unit":"Kg",
+    "Department":"Vegetable",
+    "Notes":"Fresh"
+},
+{
+    "Serial":"2",
+    "Name":"Cabbage",
+    "Quantity":"1",
+    "Unit":"No.",
+    "Department":"Vegetables",
+    "Notes":"small"
+},
+{
+    "Serial":"3",
+    "Name":"Curd",
+    "Quantity":"1",
+    "Unit":"packet",
+    "Department":"Milk products",
+    "Notes":"Milma"
+},
+{
+    "Serial":"4",
+    "Name":"Potatoes",
+    "Quantity":"1",
+    "Unit":"Kg",
+    "Department":"Vegetables",
+    "Notes":"loose"
+},
+{
+    "Serial":"5",
+    "Name":"Suagar",
+    "Quantity":"1",
+    "Unit":"Kg",
+    "Department":"",
+    "Notes":""
+},
+{
+    "Serial":"6",
+    "Name":"Maida",
+    "Quantity":"0.5",
+    "Unit":"Kg",
+    "Department":"Flour",
+    "Notes":""
+},
+{
+    "Serial":"7",
+    "Name":"Milk",
+    "Quantity":"2",
+    "Unit":"Packets",
+    "Department":"Diary Products",
+    "Notes":"Milma"
+},
+{
+    "Serial":"8",
+    "Name":"Fish",
+    "Quantity":"2",
+    "Unit":"Kg",
+    "Department":"Meat & Fish",
+    "Notes":"Prawns"
+},
+{
+    "Serial":"9",
+    "Name":"Oil",
+    "Quantity":"1",
+    "Unit":"ltr",
+    "Department":"Essentials",
+    "Notes":"Sunflower"
+},
+{
+    "Serial":"10",
+    "Name":"Salt",
+    "Quantity":"1",
+    "Unit":"Packet",
+    "Department":"Essentials",
+    "Notes":"Ionized"
+}
+    ]
+
+
+}
