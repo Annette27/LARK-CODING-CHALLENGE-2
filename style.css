@@ -9,3 +9,14 @@ th, td {
 th{
   background-color: green;
 }
+body{
+  background-color: black;
+text-align: center;
+}
+#table1{
+  
+  text-align: left;
+}
+h1{
+  color: white;
+}
