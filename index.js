@@ -1,5 +1,5 @@
-// document.getElementById("nope").style.display="none"
-function ajax(){
+
+async function ajax(){
   
     var xhttp = new XMLHttpRequest();
     xhttp.onreadystatechange = function(){
@@ -33,12 +33,12 @@ function ajax(){
         }
         
         k+='</tbody>';
-        }
         document.getElementById('demo').innerHTML = k;
+        }
+       
         setTimeout(write,1000)
 
- function write(){
-
+  function write(){
   document.getElementById("nope").innerHTML= "Mom : Thank you dear"
  }
     }
