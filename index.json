@@ -35,11 +35,11 @@
 },
 {
     "Serial":"5",
-    "Name":"Suagar",
+    "Name":"Sugar",
     "Quantity":"1",
     "Unit":"Kg",
     "Department":"",
-    "Notes":""
+    "Notes":"Fine ground"
 },
 {
     "Serial":"6",
@@ -47,7 +47,7 @@
     "Quantity":"0.5",
     "Unit":"Kg",
     "Department":"Flour",
-    "Notes":""
+    "Notes":"Check the expriry"
 },
 {
     "Serial":"7",
